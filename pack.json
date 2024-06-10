@@ -1,0 +1,8 @@
+"name": "Pack Name",
+  "description": "Use this field to describe the pack.",
+  "author": "sjs1983",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
